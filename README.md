@@ -10,7 +10,9 @@ The results for the siz Machine Learning modules and their respective balanced a
 ![Naive_Random_Oversample](https://user-images.githubusercontent.com/97924142/172096479-4ce03253-d17e-45b2-842a-28d0deef5357.png)
 
 1.) Balanced Accuracy score of 65.73%
+
 2.) **High-Risk** precision rate was only 1% while it's recall rate was 71%
+
 3.) **Low-Risk** precision rate was 100% while the recall rate was 60%
 
 ### SMOTE Oversampling
